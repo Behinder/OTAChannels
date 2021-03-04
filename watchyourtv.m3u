@@ -1,0 +1,109 @@
+#EXTM3U
+
+#EXTINF:-1 channel-id="Jewelry Television" channel-number="10001" tvg-logo="https://www.watchyour.tv/channels/logo/jewelry-television.jpg" tvc-guide-stationid="Jewelry Television" tvc-guide-title="Jewelry Television" tvc-guide-description="Jewelry Television" tvc-guide-art="https://www.watchyour.tv/channels/logo/jewelry-television.jpg",Jewelry Television
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/9pb3bfjq/1728/chunklist.m3u8
+
+#EXTINF:-1 channel-id="Rare Collectibles Television" channel-number="10002" tvg-logo="https://www.watchyour.tv/channels/logo/rare-collectibles-televison.jpg" tvc-guide-stationid="Rare Collectibles Television" tvc-guide-title="Rare Collectibles Television" tvc-guide-description="Rare Collectibles Television" tvc-guide-art="https://www.watchyour.tv/channels/logo/rare-collectibles-televison.jpg",Rare Collectibles Television
+https://nrpus.bozztv.com/36bay2/gusa-tvsrarecollectibles/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Consumer Direct" channel-number="10003" tvg-logo="https://www.watchyour.tv/channels/logo/.jpg" tvc-guide-stationid="TVS Consumer Direct" tvc-guide-title="TVS Consumer Direct" tvc-guide-description="TVS Consumer Direct" tvc-guide-art="https://www.watchyour.tv/channels/logo/.jpg",TVS Consumer Direct
+https://nrpus.bozztv.com/36bay2/gusa-ConsumerDirect/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Tavern TV" channel-number="10004" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tavern-tv.jpg" tvc-guide-stationid="TVS Tavern TV" tvc-guide-title="TVS Tavern TV" tvc-guide-description="TVS Tavern TV" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-tavern-tv.jpg",TVS Tavern TV
+https://nrpus.bozztv.com/36bay2/gusa-tavern/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Main Street" channel-number="10005" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-main-street.jpg" tvc-guide-stationid="TVS Main Street" tvc-guide-title="TVS Main Street" tvc-guide-description="TVS Main Street" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-main-street.jpg",TVS Main Street
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Hollywood History" channel-number="10006" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-hollywood-history.jpg" tvc-guide-stationid="TVS Hollywood History" tvc-guide-title="TVS Hollywood History" tvc-guide-description="TVS Hollywood History" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-hollywood-history.jpg",TVS Hollywood History
+https://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Select Network" channel-number="10007" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-select-network.jpg" tvc-guide-stationid="TVS Select Network" tvc-guide-title="TVS Select Network" tvc-guide-description="TVS Select Network" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-select-network.jpg",TVS Select Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsselect/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Television Network" channel-number="10008" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-television-network.jpg" tvc-guide-stationid="TVS Television Network" tvc-guide-title="TVS Television Network" tvc-guide-description="TVS Television Network" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-television-network.jpg",TVS Television Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Today Home Entertainment Network" channel-number="10009" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-television-network.jpg" tvc-guide-stationid="TVS Today Home Entertainment Network" tvc-guide-title="TVS Today Home Entertainment Network" tvc-guide-description="TVS Today Home Entertainment Network" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-television-network.jpg",TVS Today Home Entertainment Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Classic Sports" channel-number="10010" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-classic-sports.jpg" tvc-guide-stationid="TVS Classic Sports" tvc-guide-title="TVS Classic Sports" tvc-guide-description="TVS Classic Sports" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-classic-sports.jpg",TVS Classic Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvs/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Boxing Network" channel-number="10011" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-boxing-network.jpg" tvc-guide-stationid="TVS Boxing Network" tvc-guide-title="TVS Boxing Network" tvc-guide-description="TVS Boxing Network" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-boxing-network.jpg",TVS Boxing Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Turbo Network" channel-number="10012" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-turbo-network.jpg" tvc-guide-stationid="TVS Turbo Network" tvc-guide-title="TVS Turbo Network" tvc-guide-description="TVS Turbo Network" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-turbo-network.jpg",TVS Turbo Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Sports Network" channel-number="10013" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-sports-network.jpg" tvc-guide-stationid="TVS Sports Network" tvc-guide-title="TVS Sports Network" tvc-guide-description="TVS Sports Network" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-sports-network.jpg",TVS Sports Network
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Women's Sports Network" channel-number="10014" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-women-s-sports-network.jpg" tvc-guide-stationid="TVS Women's Sports Network" tvc-guide-title="TVS Women's Sports Network" tvc-guide-description="TVS Women's Sports Network" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-women-s-sports-network.jpg",TVS Women's Sports Network
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Sports Bureau" channel-number="10015" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-sports-bureau.jpg" tvc-guide-stationid="TVS Sports Bureau" tvc-guide-title="TVS Sports Bureau" tvc-guide-description="TVS Sports Bureau" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-sports-bureau.jpg",TVS Sports Bureau
+https://nrpus.bozztv.com/36bay2/gusa-tvssportsbureau/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Classic Movies" channel-number="10016" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-classic-movies.png" tvc-guide-stationid="TVS Classic Movies" tvc-guide-title="TVS Classic Movies" tvc-guide-description="TVS Classic Movies" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-classic-movies.png",TVS Classic Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Drive In Movie" channel-number="10017" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-drive-in-movie.jpg" tvc-guide-stationid="TVS Drive In Movie" tvc-guide-title="TVS Drive In Movie" tvc-guide-description="TVS Drive In Movie" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-drive-in-movie.jpg",TVS Drive In Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Film Noir Network" channel-number="10018" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-film-noir-network.jpg" tvc-guide-stationid="TVS Film Noir Network" tvc-guide-title="TVS Film Noir Network" tvc-guide-description="TVS Film Noir Network" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-film-noir-network.jpg",TVS Film Noir Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSFilmNoir/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Horror" channel-number="10019" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-horror.jpg" tvc-guide-stationid="TVS Horror" tvc-guide-title="TVS Horror" tvc-guide-description="TVS Horror" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-horror.jpg",TVS Horror
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Nostalgia Movie Network" channel-number="10020" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-nostalgia.jpg" tvc-guide-stationid="TVS Nostalgia Movie Network" tvc-guide-title="TVS Nostalgia Movie Network" tvc-guide-description="TVS Nostalgia Movie Network" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-nostalgia.jpg",TVS Nostalgia Movie Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Western Movie" channel-number="10021" tvg-logo="https://www.watchyour.tv/channels/logo/.png" tvc-guide-stationid="TVS Western Movies" tvc-guide-title="TVS Western Movies" tvc-guide-description="TVS Western Movies" tvc-guide-art="https://www.watchyour.tv/channels/logo/.png",TVS Western Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Nostalgia" channel-number="10022" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-nostalgia.jpg" tvc-guide-stationid="TVS Nostalgia" tvc-guide-title="TVS Nostalgia" tvc-guide-description="TVS Nostalgia" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-nostalgia.jpg",TVS Nostalgia
+https://nrpus.bozztv.com/36bay2/gusa-nostalgia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Flashback Network" channel-number="10023" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-flashback-network.jpg" tvc-guide-stationid="TVS Flashback Network" tvc-guide-title="TVS Flashback Network" tvc-guide-description="TVS Flashback Network" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-flashback-network.jpg",TVS Flashback Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Music Network" channel-number="10024" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-music-network.jpg" tvc-guide-stationid="TVS Music Network" tvc-guide-title="TVS Music Network" tvc-guide-description="TVS Music Network" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-music-network.jpg",TVS Music Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsmusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Sitcom" channel-number="10025" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-comedy-channel.jpg" tvc-guide-stationid="TVS Sitcom" tvc-guide-title="TVS Sitcom" tvc-guide-description="TVS Sitcom" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-comedy-channel.jpg",TVS Sitcom
+https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Tally Ho" channel-number="10026" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tally-ho.jpg" tvc-guide-stationid="TVS Tally Ho" tvc-guide-title="TVS Tally Ho" tvc-guide-description="TVS Tally Ho" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-tally-ho.jpg",TVS Tally Ho
+https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Travel Network" channel-number="10027" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-travel-network.jpg" tvc-guide-stationid="TVS Travel Network" tvc-guide-title="TVS Travel Network" tvc-guide-description="TVS Travel Network" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-travel-network.jpg",TVS Travel Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Pet Parade Network" channel-number="10028" tvg-logo="https://www.watchyour.tv/channels/logo/pet-parade-network.jpg" tvc-guide-stationid="TVS Pet Parade Network" tvc-guide-title="TVS Pet Parade Network" tvc-guide-description="TVS Pet Parade Network" tvc-guide-art="http://www.watchyour.tv/channels/logo/pet-parade-network.jpg",TVS Pet Parade Network
+https://nrpus.bozztv.com/36bay2/gusa-petparadenetwork/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Cartoon Network" channel-number="10029" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-cartoon-network.jpg" tvc-guide-stationid="TVS Cartoon Network" tvc-guide-title="TVS Cartoon Network" tvc-guide-description="TVS Cartoon Network" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-cartoon-network.jpg",TVS Cartoon Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSCartoonNetwork/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Family Channel" channel-number="10030" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-family-channel.jpg" tvc-guide-stationid="TVS Family Channel" tvc-guide-title="TVS Family Channel" tvc-guide-description="TVS Family Channel" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-family-channel.jpg",TVS Family Channel
+https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Hi Tops" channel-number="10031" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-hi-tops.jpg" tvc-guide-stationid="TVS Hi Tops" tvc-guide-title="TVS Hi Tops" tvc-guide-description="TVS Hi Tops" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-hi-tops.jpg",TVS Hi Tops
+https://nrpus.bozztv.com/36bay2/gusa-hitops/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Inspirational Network" channel-number="10032" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-inspirational-network.jpg" tvc-guide-stationid="TVS Inspirational Network" tvc-guide-title="TVS Inspirational Network" tvc-guide-description="TVS Inspirational Network" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-inspirational-network.jpg",TVS Inspirational Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Quiz Show Network" channel-number="10033" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-game-show-network.jpg" tvc-guide-stationid="TVS Quiz Show Network" tvc-guide-title="TVS Quiz Show Network" tvc-guide-description="TVS Quiz Show Network" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-game-show-network.jpg",TVS Quiz Show Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsgameshow/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Frontier" channel-number="10034" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-frontier.jpg" tvc-guide-stationid="TVS Frontier" tvc-guide-title="TVS Frontier" tvc-guide-description="TVS Frontier" tvc-guide-art="http://www.watchyour.tv/channels/logo/tvs-frontier.jpg",TVS Frontier
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Front Page Detective" channel-number="10035" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-front-page-detective-.jpg" tvc-guide-stationid="TVS Front Page Detective" tvc-guide-title="TVS Front Page Detective" tvc-guide-description="TVS Front Page Detective" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-front-page-detective-.jpg",TVS Front Page Detective
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontpagedetective/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="TVS Mystery Network" channel-number="10036" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-mystery-network.jpg" tvc-guide-stationid="TVS Mystery Network" tvc-guide-title="TVS Mystery Network" tvc-guide-description="TVS Mystery Network" tvc-guide-art="https://www.watchyour.tv/channels/logo/tvs-mystery-network.jpg",TVS Mystery Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsmystery/tracks-v1a1/mono.m3u8
